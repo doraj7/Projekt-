@@ -1,4 +1,4 @@
-"# Projekt-" 
+
 # Pac-Man
 
 Ovo je *jednostavna Pac-Man igra* implementirana u C++ programskom jeziku. 
